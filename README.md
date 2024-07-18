@@ -23,6 +23,6 @@ Hi there 👋 ! I'm Andreson, a passionate and dedicated web developer with a st
 
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Andreson26)](https://github.com/anuraghazra/github-readme-stats)
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/andreson26)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/andreson-ceide//)  
 
 
