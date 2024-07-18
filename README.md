@@ -11,7 +11,7 @@ Hi there 👋 ! I'm Andreson, a passionate and dedicated web developer with a st
 
 # examples of work
 <div>
- <img src="![image](https://github.com/user-attachments/assets/3950add0-d7e3-46d3-a847-b42ff20121c2)" />
+ <img src="(https://github.com/user-attachments/assets/3950add0-d7e3-46d3-a847-b42ff20121c2)" />
  <a href="https://photo-sharing-theta.vercel.app/">Photo Sharing Quest</a>
 
  
