@@ -11,10 +11,10 @@ Hi there 👋 ! I'm Andreson, a passionate and dedicated web developer with a st
 
 # examples of work
 <div>
- <img src="(https://github.com/user-attachments/assets/3950add0-d7e3-46d3-a847-b42ff20121c2)" />
- <a href="https://photo-sharing-theta.vercel.app/">Photo Sharing Quest</a>
-
- 
+ <img src="https://github.com/user-attachments/assets/3950add0-d7e3-46d3-a847-b42ff20121c2" />
+ <a href="https://photo-sharing-theta.vercel.app">Photo Sharing Quest</a> 
+ <img src="https://github.com/user-attachments/assets/07c6a69f-e6f1-4d21-9b84-a514a865fb3a" />
+ <a href="https://crypto-app01-frontend.vercel.app"> Crypto Book</a>
 
 </div>
 
