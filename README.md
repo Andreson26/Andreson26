@@ -10,12 +10,12 @@ Hi there 👋 ! I'm Andreson, a passionate and dedicated web developer with a st
 * ⏭️NextJs and 🌀TypeScript
 
 # examples of work
-<div style={{display: "flex", flexDirection: "row"}}>
- <div style={{display: "flex", flexDirection:"column"}}>
+<div style=display: "flex"; flex-irection: "row";>
+ <div style=display: "flex"; flex-direction:"column";>
    <img src="https://github.com/user-attachments/assets/3950add0-d7e3-46d3-a847-b42ff20121c2" w="250" />
  <a href="https://photo-sharing-theta.vercel.app">Photo Sharing Quest</a> 
  </div>
-<div style={{display: "flex", flexDirection: "column"}}>
+<div style=display: "flex"; flex-direction: "column";>
   <img src="Screenshot 2024-07-18 170435.png" w="250" />
  <a href="https://crypto-app01-frontend.vercel.app"> Crypto Book</a>
 </div>
