@@ -17,34 +17,12 @@ Hi there 👋 ! I'm Andreson, a passionate and dedicated web developer with a st
   </tr>
   <tr>
     <td><a href="https://photo-sharing-theta.vercel.app">Photo Sharing Quest</a> </td>
-    <td><a href="https://crypto-app01-frontend.vercel.app"> Crypto Book</a></td>
-    
+    <td><a href="https://crypto-app01-frontend.vercel.app"> Crypto Book</a></td> 
   </tr>
 </table>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Andreson26)](https://github.com/anuraghazra/github-readme-stats)
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons
 
 
